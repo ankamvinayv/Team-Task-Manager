@@ -2,6 +2,7 @@
 builder = "NIXPACKS"
 
 [build.nixpacks]
+nodeVersion = "22"
 buildCmd = "npm run build"
 
 [deploy]
