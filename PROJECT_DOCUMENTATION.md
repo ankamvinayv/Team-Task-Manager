@@ -17,7 +17,7 @@ The application features a modern, responsive UI with a **light/dark theme toggl
 ### Backend
 | Technology | Version | Purpose |
 |---|---|---|
-| **Node.js** | 18.x+ | JavaScript runtime |
+| **Node.js** | 20.x+ | JavaScript runtime |
 | **Express.js** | 4.21.x | Web framework for REST API |
 | **MongoDB** | Cloud (Atlas) | NoSQL database |
 | **Mongoose** | 8.7.x | MongoDB ODM (Object Document Mapper) |

@@ -11,6 +11,6 @@
     "build": "npm run install:all && npm run build:client"
   },
   "engines": {
-    "node": "18.x"
+    "node": "20.x"
   }
 }
