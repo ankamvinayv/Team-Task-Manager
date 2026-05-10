@@ -1,0 +1,16 @@
+{
+  "name": "team-task-manager",
+  "version": "1.0.0",
+  "description": "Team Task Manager – Full-stack MERN application",
+  "scripts": {
+    "install:all": "cd server && npm install && cd ../client && npm install",
+    "build:client": "cd client && npm run build",
+    "start": "cd server && node server.js",
+    "dev": "cd server && npm run dev",
+    "seed": "cd server && node seed.js",
+    "build": "npm run install:all && npm run build:client"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
